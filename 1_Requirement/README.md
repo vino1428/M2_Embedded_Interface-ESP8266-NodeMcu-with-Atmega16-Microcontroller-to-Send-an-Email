@@ -22,3 +22,6 @@
 * facility to send copies of a message to many people.
 * automatic filing and retrieval of messages.
 * addresses can be stored in an address book and retrieved instantly.
+
+# **SWOT ANALYSIS**
+![Gradient-Column-SWOT-Analysis-Template](https://user-images.githubusercontent.com/94214304/143734103-79275005-46cd-45e9-8c1e-79e0d6d6fe17.png)
