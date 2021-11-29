@@ -1,4 +1,6 @@
-# CIRCUIT DIAGRAM
+# **BLOCK DIAGRAM**
+
+# **CIRCUIT DIAGRAM**
 ![avr-temperature-sensor-circuit](https://user-images.githubusercontent.com/94214304/143832578-9a7b2eda-b76a-4713-af04-c1ac298a800b.png)
 # **FLOWCHART**
 
