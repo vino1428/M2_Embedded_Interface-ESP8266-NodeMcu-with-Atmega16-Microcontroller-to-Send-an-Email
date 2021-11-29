@@ -1,7 +1,7 @@
 # **INTRODUCTION**
-* Atmega16 is a low cost 8 bit microcontroller and comes with more number of GPIO’s than its previous version of microcontrollers. It has all the commonly used communication protocols like UART, USART, SPI and I2C. It has wide applications in robotics, automobile and automation industries because of its wide community support and simplicity.
-* Atmega16 doesn’t support any of the wireless communication protocols such as Wi-Fi and Bluetooth which limits its application areas in domain like IoT.  To overcome this limitation other controllers can be interfaced which has wireless protocols. There are number of controllers which supports wireless protocols like widely used ESP8266,
-* Today we will interface Atmega16 with ESP8266 NodeMCU to make it communicate wirelessly through internet. ESP8266 NodeMCU is widely used WiFi module with community support and easily available libraries. Also ESP8266 NodeMCU is easily programmable with Arduino IDE. ESP8266 can be interfaced with any microcontroller:
+* In this project we are going to design a circuit for measuring temperature. This circuit is developed using “LM35”, a linear voltage sensor. Temperature is usually measured in “Centigrade” or “Faraheite”. “LM35” sensor provides output based on scale of centigrade.
+* LM35 is three pin transistor like device. It has VCC, GND and OUTPUT. This sensor provides variable voltage at the output based on temperature.
+* So for now with LM35 we get temperature in the form of variable voltage. This temperature dependent voltage is given as input to ADC (Analog to Digital Converter) of ATMEGA32A. The digital value after conversion obtained is shown in the 16x2 LCD as temperature.
 
 # **COMPONENTS REQUIRED**
 * ESP8266 NodeMCU Module
