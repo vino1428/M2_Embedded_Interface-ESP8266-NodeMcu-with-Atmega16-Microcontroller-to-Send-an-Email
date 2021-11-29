@@ -4,17 +4,18 @@
 * So for now with LM35 we get temperature in the form of variable voltage. This temperature dependent voltage is given as input to ADC (Analog to Digital Converter) of ATMEGA32A. The digital value after conversion obtained is shown in the 16x2 LCD as temperature.
 
 # **COMPONENTS REQUIRED**
-* ESP8266 NodeMCU Module
-* Atmega16 Microcontroller IC
-* 16Mhz Crystal Oscillator
-* Two 100nF Capacitors
-* Two 22pF Capacitors
-* Push Button
-* Jumper Wires
-* Breadboard
-* USBASP v2.0
-* Led(Any Color)
-* Circuit Di
+# **Hardware**: 
+* ATMEGA32 Microcontroller
+* power supply (5v)
+* AVR-ISP PROGRAMMER
+* JHD_162ALCD (16x2LCD)
+* 100uF capacitor (two pieces)
+* 100nF capacitor
+* LM35 Temperature Sensor.
+
+# **Software**: 
+* Atmel studio 6.1
+* progisp or flash magic
 
 # **FEATURES**
 * automatic reply to messages.
