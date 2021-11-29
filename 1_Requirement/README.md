@@ -18,14 +18,17 @@
 * progisp or flash magic
 
 # **FEATURES**
-* automatic reply to messages.
-* auto-forward and redirection of messages.
-* facility to send copies of a message to many people.
-* automatic filing and retrieval of messages.
-* addresses can be stored in an address book and retrieved instantly.
+* Temperature range
+* Linearity
+* Sensitivity
+* Response time
+* Stability
+* Accuracy
+* Durability
+* Cost
 
 # **SWOT ANALYSIS**
-![Gradient-Column-SWOT-Analysis-Template](https://user-images.githubusercontent.com/94214304/143734103-79275005-46cd-45e9-8c1e-79e0d6d6fe17.png)
+
 
 # **STATE OF ARTS**
-![diagram](https://user-images.githubusercontent.com/94214304/143740075-c74b1b51-b8a5-4765-9b65-94a2f5e0c9e1.jpg)
+
