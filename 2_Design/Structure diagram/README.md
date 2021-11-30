@@ -3,4 +3,5 @@
 # **CIRCUIT DIAGRAM**
 
 # **FLOWCHART**
+![flowchart](https://user-images.githubusercontent.com/94214304/143999995-1b2f2bd3-650b-42cf-8375-068f41ce3959.jpg)
 
