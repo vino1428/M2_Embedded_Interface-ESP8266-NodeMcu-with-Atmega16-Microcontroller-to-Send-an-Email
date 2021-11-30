@@ -19,7 +19,7 @@
 * Energy Management-One of the hottest topics in the consumer media is energy conservation. Automation systems can help save energy by turning off electronic devices automatically, and some do this better than others. Be sure to check out the energy-saving features of a system before you buy. 
 
 # **SWOT ANALYSIS**
-
+![SWOT](https://user-images.githubusercontent.com/94214304/143998536-cad55d91-51e1-4046-beb1-a368ba0c103f.png)
 
 # **STATE OF ARTS**
-![Body-Sensors-Market](https://user-images.githubusercontent.com/94214304/143838080-2d724024-b9c9-45dc-b30d-039e33394f78.png)
+
