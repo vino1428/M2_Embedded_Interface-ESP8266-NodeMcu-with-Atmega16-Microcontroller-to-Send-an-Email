@@ -1,5 +1,5 @@
-# **BLOCK DIAGRAM**
-![block diagram](https://user-images.githubusercontent.com/94214304/143999834-85510cc3-ee5b-4950-b798-c5c50c1cb41d.png)
+# **CLASS DIAGRAM**
+
 # **CIRCUIT DIAGRAM**
 ![Circuit-Diagram-797x420](https://user-images.githubusercontent.com/94214304/144000513-79bc3f52-b605-4bad-8cdb-39341ee2b396.jpg)
 # **FLOWCHART**
