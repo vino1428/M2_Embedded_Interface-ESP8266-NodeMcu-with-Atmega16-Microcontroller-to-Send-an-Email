@@ -1,31 +1,22 @@
 # **INTRODUCTION**
-* In this project we are going to design a circuit for measuring temperature. This circuit is developed using “LM35”, a linear voltage sensor. Temperature is usually measured in “Centigrade” or “Faraheite”. “LM35” sensor provides output based on scale of centigrade.
-* LM35 is three pin transistor like device. It has VCC, GND and OUTPUT. This sensor provides variable voltage at the output based on temperature.
-* So for now with LM35 we get temperature in the form of variable voltage. This temperature dependent voltage is given as input to ADC (Analog to Digital Converter) of ATMEGA32A. The digital value after conversion obtained is shown in the 16x2 LCD as temperature.
+* In this project, we will be interfacing 4 channel relay with NodeMCU ESP8266 12E Wifi Module and control 4 different LEDs. 
+* These 4 different LEDs are similar to 4 different Home Appliances. We will use an Android app having 5+5 ON+OFF Buttons to send a signal to NodeMCU in order to control relay output. Every NodeMCU has a particular IP Address. 
+* We will assign this IP Address to Android App for access control. Similarly, NodeMCU is needed to be connected to local Wifi.
+
 
 # **COMPONENTS REQUIRED**
-# **Hardware**: 
-* ATMEGA32 Microcontroller
-* power supply (5v)
-* AVR-ISP PROGRAMMER
-* JHD_162ALCD (16x2LCD)
-* 100uF capacitor (two pieces)
-* 100nF capacitor
-* LM35 Temperature Sensor.
-
-# **Software**: 
-* Atmel studio 6.1
-* progisp or flash magic
+* NodeMCU
+* Relay Module
+* LED
+* Resistor
+* Power Supply
+* Connecting Wires
+* Breadboard
 
 # **FEATURES**
-* Temperature range
-* Linearity
-* Sensitivity
-* Response time
-* Stability
-* Accuracy
-* Durability
-* Cost
+* Interoperability-The beauty of an automation system is its ability to tie diverse electronic devices together so they can perform as one unified system. 
+* Expandability-The way you live in your home five years from now will probably be much different than the way you live in your home today. Moreover, technology will continue to evolve, introducing a completely new generation of products to the marketplace.
+* Energy Management-One of the hottest topics in the consumer media is energy conservation. Automation systems can help save energy by turning off electronic devices automatically, and some do this better than others. Be sure to check out the energy-saving features of a system before you buy. 
 
 # **SWOT ANALYSIS**
 
