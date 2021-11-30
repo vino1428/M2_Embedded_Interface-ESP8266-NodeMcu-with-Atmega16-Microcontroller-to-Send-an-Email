@@ -22,4 +22,5 @@
 ![SWOT](https://user-images.githubusercontent.com/94214304/143998536-cad55d91-51e1-4046-beb1-a368ba0c103f.png)
 
 # **STATE OF ARTS**
+![state of art](https://user-images.githubusercontent.com/94214304/143998860-72401541-122b-49ae-a0e7-7f89379169cb.jpg)
 
