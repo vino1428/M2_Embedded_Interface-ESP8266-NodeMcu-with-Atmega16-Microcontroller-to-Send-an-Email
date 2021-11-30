@@ -7,4 +7,4 @@
 |4.        | Resistor       | 220 ohm  | 4 | https://amzn.to/2SYMPSk |
 |5.        | Power Supply   | 5v, 1A Power Adapter | 1 | https://amzn.to/3fHd9tL |
 |6.        | Connecting Wires | Jumper Wires | 10 | https://amzn.to/2L8Xc1p |
-|7.        |  -            |  1 | https://amzn.to/2YM6YyS |
+|7.        | Breadboard     | - | 1 | https://amzn.to/2YM6YyS |
