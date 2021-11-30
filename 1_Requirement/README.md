@@ -24,3 +24,12 @@
 # **STATE OF ARTS**
 ![state of art](https://user-images.githubusercontent.com/94214304/143998860-72401541-122b-49ae-a0e7-7f89379169cb.jpg)
 
+# **4W's AND 1H's**
+# WHERE
+* The most common applications of home automation are lighting control, HVAC, outdoor lawn irrigation, kitchen appliances, and security systems.
+# WHY
+* Home automation technologies such as smart thermostats, smart lighting, and smart appliances connect to a centralized control that can act on its own or be programmed to control energy consumption and increase savings.
+# WHAT
+* Home Automation system is a system that uses computers or mobile devices to control basic home functions and features automatically through internet from anywhere around the world
+# HOW
+* Home automation is a network of hardware, communication, and electronic interfaces that work to integrate everyday devices with one another via the Internet.
