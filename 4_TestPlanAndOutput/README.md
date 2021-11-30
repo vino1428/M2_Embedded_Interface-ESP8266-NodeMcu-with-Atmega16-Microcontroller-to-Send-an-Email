@@ -13,8 +13,5 @@
 # **LOW LEVEL TESTPLAN**
 | **TEST ID** | **DESCRIPTION** | **EXPECTED I/P** | **ACTUAL O/P** | **EXPECTED O/P** |
 | :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
-| L1               | To create attendance system| * To Activate enroll/back push button * Place finger on sensor * Select ID | ID is created | ID is created |
-| L2               | To Delete the created ID | * To Activate delete/ok push button * Place finger on sensor  * Select ID | ID is deleted | ID is deleted |
-| L3               | To login attendance system | * To Activate delete/ok push button * Place finger on sensor  * Select ID | ID is logged in | ID is logged in |
-| L4               | To logout attendance system | * To Activate enroll/back push button * Place finger on sensor * Select ID | ID has logged out | ID is logged out |
+| L1               | LCD | power Supply | Message Generated| Message generated |
 
