@@ -1,4 +1,4 @@
-DOXY_FILE = Smart Home Automation System
+DOXY_FILE = Smart Home Automation using wifi and voice control
 BUILD_FILE = html
 
 FixPath = $(subst /,\,$1)
