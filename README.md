@@ -1,1 +1,5 @@
 # M2_Embedded_Smart home automation using Wifi and Voice Control
+
+| Build_linus | ccpcheck | codacy |
+| :---------: | :------: | :----: |
+| [![Build_linux](https://github.com/vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control/actions/workflows/build_linux.yml/badge.svg)](https://github.com/vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control/actions/workflows/build_linux.yml) | [![StaticcodeCppcheck](https://github.com/vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://api.codacy.com/project/badge/Grade/40a41248a0c3423bb15d899491b095c9)](https://app.codacy.com/gh/vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control?utm_source=github.com&utm_medium=referral&utm_content=vino1428/M2_Embedded_Smart-home-automation-using-Wifi-and-Voice-Control&utm_campaign=Badge_Grade_Settings) |
