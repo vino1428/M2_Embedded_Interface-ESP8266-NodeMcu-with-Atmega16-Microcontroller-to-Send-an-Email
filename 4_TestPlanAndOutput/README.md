@@ -2,10 +2,10 @@
 
 | **TEST ID** | **DESCRIPTION** | **EXPECTED I/P** | **ACTUAL O/P** | **EXPECTED O/P** |
 | :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
-| H1               | To create a new ID | * To Activate enroll/back push button * Place finger on sensor * Select ID | ID is created | ID is created |
-| H2               | To Delete the created ID | * To Activate delete/ok push button * Place finger on sensor  * Select ID | ID is deleted | ID is deleted |
-| H3               | To login attendance system | * To Activate delete/ok push button * Place finger on sensor  * Select ID | ID is logged in | ID is logged in |
-| H4               | To logout attendance system | * To Activate enroll/back push button * Place finger on sensor * Select ID | ID has logged out | ID is logged out |
+| H1               | To monitor room temperature | Temperature sensor sense the value | Message generated to webpage | Message generated to webpage |
+| H2               | Switching of lights and fans  | PIR sensor senses the people motion | LED ON/OFF | LED ON/OFF |
+| H3               | Sending collected value to webpage | NodeMCU connected to webpage | Webpage is created | Webpage is created |
+
 
 
 
@@ -13,5 +13,5 @@
 # **LOW LEVEL TESTPLAN**
 | **TEST ID** | **DESCRIPTION** | **EXPECTED I/P** | **ACTUAL O/P** | **EXPECTED O/P** |
 | :------------:  | :------------------: | :------------------: | :-----------------: | :-------------------: |
-| L1               | LCD | power Supply | Message Generated| Message generated |
+| L1               | To print the value in LCD board | power Supply | Message Generated in LCD | Message generated in LCD |
 
